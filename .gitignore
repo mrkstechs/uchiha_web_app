@@ -1,0 +1,8 @@
+backend/node_modules
+backend/AppDataRoamingnpm-cache
+backend/test
+AppDataRoamingnpm-cache
+frontend/node_modules
+frontend/AppDataRoamingnpm-cache
+
+
